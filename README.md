@@ -1,3 +1,3 @@
 # public-repository
 
-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
+this token should be revoked: `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`
